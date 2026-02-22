@@ -28,7 +28,7 @@ export function SiteHeader() {
             </div>
             <span className="text-lg font-bold text-foreground">
               {'FatBear'}
-              <span className="text-primary">{'胖海熊'}</span>
+              <span className="text-primary">{'溫暖小鎮'}</span>
             </span>
           </Link>
 
